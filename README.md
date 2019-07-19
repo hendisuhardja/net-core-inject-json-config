@@ -1,0 +1,1 @@
+# net-core-inject-json-config
